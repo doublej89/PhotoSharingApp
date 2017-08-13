@@ -16,7 +16,6 @@ You'll need Api Keys for google maps and cloudinary
 
 In the gradle.properties file you need to add the following lines:
 GOOGLE_MAPS_API_KEY=YOUR_MAPS_API_KEY
-
 CLOUD_NAME=YOUR_CLOUD_NAME
 CLOUD_API_KEY=YOUR_CLOUD_API_KEY
 CLOUD_API_SECRET=YOUR_SECRET_KEY

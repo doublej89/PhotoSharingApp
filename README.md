@@ -14,10 +14,10 @@ Make sure the Android version in your device/emulator is at least 5.0 (API level
 # API Keys
 You'll need Api Keys for google maps and cloudinary
 
-In the gradle.properties file you need to add the following lines:
-GOOGLE_MAPS_API_KEY=YOUR_MAPS_API_KEY
-CLOUD_NAME=YOUR_CLOUD_NAME
-CLOUD_API_KEY=YOUR_CLOUD_API_KEY
+In the gradle.properties file you need to add the following lines:\n
+GOOGLE_MAPS_API_KEY=YOUR_MAPS_API_KEY\n
+CLOUD_NAME=YOUR_CLOUD_NAME\n
+CLOUD_API_KEY=YOUR_CLOUD_API_KEY\n
 CLOUD_API_SECRET=YOUR_SECRET_KEY
 
 Get the keys from here: https://developers.google.com/maps/documentation/android-api/start

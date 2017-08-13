@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283711027061",
+    "firebase_url": "https://myphotosharingapp-40e30.firebaseio.com",
+    "project_id": "myphotosharingapp-40e30",
+    "storage_bucket": "myphotosharingapp-40e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283711027061:android:dd70cfe9a2884d5e",
+        "android_client_info": {
+          "package_name": "com.example.memyself.myphotosharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283711027061-j74r8cho371rntuflfmp3ut6j4tvh53b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memyself.myphotosharingapp",
+            "certificate_hash": "5868bd29148a2940113dca3850c0b21eb349553e"
+          }
+        },
+        {
+          "client_id": "283711027061-jubvf14vd43htb6dbp87q14q1ah9tvq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mX32o9Uk2vfDvJCw5RH-Nfe5Qyo-MBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283711027061-jubvf14vd43htb6dbp87q14q1ah9tvq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
